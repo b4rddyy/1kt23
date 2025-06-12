@@ -1,7 +1,7 @@
 body {
   background-color: #121212;
   color: #e0e0e0;
-  font-family: 'Roboto', cursive;
+  font-family: 'Comic Sans', cursive;
   margin: 0;
 }
 
@@ -136,7 +136,7 @@ footer {
   padding: 10px 15px;
   border-radius: 8px;
   color: #eee;
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Comic Sans', cursive;
   transition: background 0.3s;
 }
 
@@ -192,7 +192,7 @@ footer {
   padding: 10px 15px;
   border-radius: 8px;
   color: #eee;
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Comic Sans', cursive;
   transition: background 0.3s;
 }
 
@@ -270,7 +270,7 @@ footer {
   padding: 10px 15px;
   border-radius: 8px;
   color: #eee;
-  font-family: 'Comic Sans MS', cursive;
+  font-family: 'Comic Sans', cursive;
   transition: background 0.3s;
 }
 
@@ -290,7 +290,7 @@ footer {
   color: #ff6600;
   font-size: 2em;
   margin-bottom: 20px;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: 'Comic Sans', cursive, sans-serif;
 }
 
 .calendar-list {
@@ -310,7 +310,7 @@ footer {
   border-radius: 8px;
   box-shadow: 0 0 10px #ff660055;
   transition: background-color 0.3s;
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  font-family: 'Comic Sans', cursive, sans-serif;
 }
 
 .calendar-list li:hover {
